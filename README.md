@@ -1,5 +1,3 @@
-# finance-tech-portfolio
-Practical finance-focused projects demonstrating my journey in applying programming and analytical tools to solve real-world business problems.
 # Finance Technical Skills Portfolio
 
 Welcome! 👋\
