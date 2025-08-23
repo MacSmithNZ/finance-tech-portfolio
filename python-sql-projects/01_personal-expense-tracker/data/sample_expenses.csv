@@ -1,0 +1,251 @@
+date,amount,category,payment_method,note
+2025-02-26,52.75,Rent,Cash,Sample expense 2
+2025-02-26,136.96,Utilities,Cash,Sample expense 2
+2025-02-27,11.2,Groceries,Debit Card,Sample expense 3
+2025-02-27,50.37,Utilities,Cash,Sample expense 3
+2025-02-27,114.44,Entertainment,Bank Transfer,Sample expense 3
+2025-02-28,92.6,Transport,Cash,Sample expense 4
+2025-03-01,141.14,Transport,Credit Card,Sample expense 5
+2025-03-02,46.99,Transport,Cash,Sample expense 6
+2025-03-04,23.86,Transport,Credit Card,Sample expense 8
+2025-03-04,162.39,Entertainment,Bank Transfer,Sample expense 8
+2025-03-04,109.56,Dining Out,Cash,Sample expense 8
+2025-03-05,166.73,Utilities,Credit Card,Sample expense 9
+2025-03-05,117.58,Entertainment,Cash,Sample expense 9
+2025-03-07,155.75,Groceries,Debit Card,Sample expense 11
+2025-03-09,59.2,Entertainment,Credit Card,Sample expense 13
+2025-03-09,36.72,Transport,Debit Card,Sample expense 13
+2025-03-09,135.68,Entertainment,Cash,Sample expense 13
+2025-03-10,109.16,Rent,Debit Card,Sample expense 14
+2025-03-11,78.99,Entertainment,Debit Card,Sample expense 15
+2025-03-11,138.5,Groceries,Debit Card,Sample expense 15
+2025-03-11,165.25,Transport,Bank Transfer,Sample expense 15
+2025-03-12,17.91,Utilities,Credit Card,Sample expense 16
+2025-03-12,46.46,Dining Out,Bank Transfer,Sample expense 16
+2025-03-13,32.86,Rent,Debit Card,Sample expense 17
+2025-03-13,150.27,Utilities,Credit Card,Sample expense 17
+2025-03-13,150.67,Dining Out,Bank Transfer,Sample expense 17
+2025-03-14,47.77,Rent,Bank Transfer,Sample expense 18
+2025-03-14,22.73,Groceries,Cash,Sample expense 18
+2025-03-15,127.35,Entertainment,Bank Transfer,Sample expense 19
+2025-03-17,79.42,Dining Out,Credit Card,Sample expense 21
+2025-03-17,194.36,Groceries,Cash,Sample expense 21
+2025-03-17,137.93,Utilities,Credit Card,Sample expense 21
+2025-03-18,26.75,Dining Out,Debit Card,Sample expense 22
+2025-03-18,93.48,Entertainment,Credit Card,Sample expense 22
+2025-03-19,104.0,Groceries,Credit Card,Sample expense 23
+2025-03-20,34.8,Rent,Cash,Sample expense 24
+2025-03-21,100.28,Groceries,Credit Card,Sample expense 25
+2025-03-21,176.35,Transport,Debit Card,Sample expense 25
+2025-03-23,176.21,Groceries,Cash,Sample expense 27
+2025-03-24,164.12,Utilities,Debit Card,Sample expense 28
+2025-03-24,30.04,Dining Out,Debit Card,Sample expense 28
+2025-03-24,56.69,Utilities,Bank Transfer,Sample expense 28
+2025-03-25,186.14,Entertainment,Debit Card,Sample expense 29
+2025-03-26,82.8,Entertainment,Credit Card,Sample expense 30
+2025-03-26,90.43,Utilities,Bank Transfer,Sample expense 30
+2025-03-28,48.82,Transport,Cash,Sample expense 32
+2025-03-29,119.75,Groceries,Cash,Sample expense 33
+2025-03-31,18.14,Groceries,Credit Card,Sample expense 35
+2025-04-02,59.3,Dining Out,Debit Card,Sample expense 37
+2025-04-03,146.05,Utilities,Bank Transfer,Sample expense 38
+2025-04-04,158.0,Dining Out,Debit Card,Sample expense 39
+2025-04-07,74.09,Dining Out,Bank Transfer,Sample expense 42
+2025-04-07,173.45,Groceries,Cash,Sample expense 42
+2025-04-07,16.82,Entertainment,Credit Card,Sample expense 42
+2025-04-09,42.36,Utilities,Bank Transfer,Sample expense 44
+2025-04-10,87.27,Transport,Bank Transfer,Sample expense 45
+2025-04-11,175.52,Groceries,Bank Transfer,Sample expense 46
+2025-04-16,37.43,Dining Out,Bank Transfer,Sample expense 51
+2025-04-17,173.61,Groceries,Debit Card,Sample expense 52
+2025-04-18,5.42,Dining Out,Credit Card,Sample expense 53
+2025-04-18,185.67,Dining Out,Credit Card,Sample expense 53
+2025-04-18,87.49,Entertainment,Bank Transfer,Sample expense 53
+2025-04-19,42.03,Rent,Cash,Sample expense 54
+2025-04-21,16.15,Utilities,Bank Transfer,Sample expense 56
+2025-04-21,103.06,Utilities,Debit Card,Sample expense 56
+2025-04-24,18.36,Groceries,Debit Card,Sample expense 59
+2025-04-25,28.38,Utilities,Debit Card,Sample expense 60
+2025-04-25,117.89,Groceries,Cash,Sample expense 60
+2025-04-25,86.75,Utilities,Credit Card,Sample expense 60
+2025-04-26,44.83,Entertainment,Credit Card,Sample expense 61
+2025-04-26,51.54,Dining Out,Debit Card,Sample expense 61
+2025-04-27,94.16,Groceries,Cash,Sample expense 62
+2025-04-27,94.37,Utilities,Cash,Sample expense 62
+2025-04-29,103.65,Rent,Credit Card,Sample expense 64
+2025-05-01,77.06,Rent,Bank Transfer,Sample expense 66
+2025-05-02,124.28,Entertainment,Cash,Sample expense 67
+2025-05-02,135.23,Utilities,Credit Card,Sample expense 67
+2025-05-04,56.57,Groceries,Debit Card,Sample expense 69
+2025-05-05,59.94,Rent,Credit Card,Sample expense 70
+2025-05-05,44.7,Entertainment,Credit Card,Sample expense 70
+2025-05-06,53.97,Groceries,Cash,Sample expense 71
+2025-05-06,128.69,Transport,Cash,Sample expense 71
+2025-05-06,5.69,Rent,Credit Card,Sample expense 71
+2025-05-07,149.54,Utilities,Bank Transfer,Sample expense 72
+2025-05-11,111.39,Transport,Debit Card,Sample expense 76
+2025-05-12,29.85,Transport,Credit Card,Sample expense 77
+2025-05-12,180.3,Groceries,Credit Card,Sample expense 77
+2025-05-12,45.96,Rent,Cash,Sample expense 77
+2025-05-13,157.12,Dining Out,Debit Card,Sample expense 78
+2025-05-13,185.52,Rent,Debit Card,Sample expense 78
+2025-05-14,176.88,Groceries,Debit Card,Sample expense 79
+2025-05-15,157.57,Dining Out,Debit Card,Sample expense 80
+2025-05-15,57.03,Entertainment,Cash,Sample expense 80
+2025-05-16,175.07,Dining Out,Debit Card,Sample expense 81
+2025-05-16,43.92,Dining Out,Credit Card,Sample expense 81
+2025-05-16,64.51,Rent,Debit Card,Sample expense 81
+2025-05-18,82.7,Transport,Cash,Sample expense 83
+2025-05-19,73.47,Utilities,Bank Transfer,Sample expense 84
+2025-05-19,137.51,Utilities,Credit Card,Sample expense 84
+2025-05-22,39.82,Transport,Cash,Sample expense 87
+2025-05-22,26.14,Dining Out,Credit Card,Sample expense 87
+2025-05-23,90.1,Utilities,Cash,Sample expense 88
+2025-05-23,80.11,Utilities,Debit Card,Sample expense 88
+2025-05-24,13.66,Dining Out,Cash,Sample expense 89
+2025-05-24,106.38,Utilities,Debit Card,Sample expense 89
+2025-05-25,89.1,Entertainment,Credit Card,Sample expense 90
+2025-05-25,126.52,Entertainment,Cash,Sample expense 90
+2025-05-26,103.89,Entertainment,Bank Transfer,Sample expense 91
+2025-05-26,68.61,Entertainment,Credit Card,Sample expense 91
+2025-05-27,42.41,Entertainment,Bank Transfer,Sample expense 92
+2025-05-28,125.03,Transport,Bank Transfer,Sample expense 93
+2025-05-30,60.95,Dining Out,Credit Card,Sample expense 95
+2025-05-30,95.67,Dining Out,Debit Card,Sample expense 95
+2025-05-31,159.78,Entertainment,Debit Card,Sample expense 96
+2025-05-31,133.48,Transport,Credit Card,Sample expense 96
+2025-05-31,23.21,Rent,Credit Card,Sample expense 96
+2025-06-01,162.28,Rent,Cash,Sample expense 97
+2025-06-03,196.87,Utilities,Cash,Sample expense 99
+2025-06-04,85.82,Entertainment,Debit Card,Sample expense 100
+2025-06-04,145.08,Dining Out,Bank Transfer,Sample expense 100
+2025-06-04,82.93,Rent,Cash,Sample expense 100
+2025-06-06,47.67,Entertainment,Bank Transfer,Sample expense 102
+2025-06-06,14.79,Rent,Cash,Sample expense 102
+2025-06-06,94.01,Dining Out,Credit Card,Sample expense 102
+2025-06-07,124.47,Entertainment,Bank Transfer,Sample expense 103
+2025-06-07,166.96,Utilities,Bank Transfer,Sample expense 103
+2025-06-07,179.96,Entertainment,Bank Transfer,Sample expense 103
+2025-06-08,55.54,Rent,Credit Card,Sample expense 104
+2025-06-08,154.33,Utilities,Bank Transfer,Sample expense 104
+2025-06-08,127.22,Transport,Bank Transfer,Sample expense 104
+2025-06-10,50.73,Transport,Credit Card,Sample expense 106
+2025-06-10,179.14,Groceries,Debit Card,Sample expense 106
+2025-06-11,50.1,Entertainment,Debit Card,Sample expense 107
+2025-06-12,17.52,Dining Out,Credit Card,Sample expense 108
+2025-06-13,86.08,Rent,Bank Transfer,Sample expense 109
+2025-06-13,80.95,Utilities,Cash,Sample expense 109
+2025-06-13,172.06,Utilities,Bank Transfer,Sample expense 109
+2025-06-14,6.15,Transport,Credit Card,Sample expense 110
+2025-06-14,151.93,Dining Out,Debit Card,Sample expense 110
+2025-06-14,100.2,Transport,Bank Transfer,Sample expense 110
+2025-06-15,10.66,Transport,Bank Transfer,Sample expense 111
+2025-06-15,146.22,Dining Out,Debit Card,Sample expense 111
+2025-06-15,196.24,Utilities,Cash,Sample expense 111
+2025-06-16,120.42,Entertainment,Cash,Sample expense 112
+2025-06-16,21.37,Dining Out,Debit Card,Sample expense 112
+2025-06-16,174.04,Rent,Cash,Sample expense 112
+2025-06-17,78.93,Rent,Bank Transfer,Sample expense 113
+2025-06-17,68.73,Dining Out,Credit Card,Sample expense 113
+2025-06-18,54.19,Groceries,Bank Transfer,Sample expense 114
+2025-06-18,8.78,Utilities,Cash,Sample expense 114
+2025-06-18,199.98,Transport,Debit Card,Sample expense 114
+2025-06-22,43.88,Groceries,Debit Card,Sample expense 118
+2025-06-23,29.61,Entertainment,Cash,Sample expense 119
+2025-06-24,95.68,Transport,Credit Card,Sample expense 120
+2025-06-25,123.15,Entertainment,Cash,Sample expense 121
+2025-06-26,193.12,Groceries,Cash,Sample expense 122
+2025-06-27,117.28,Dining Out,Bank Transfer,Sample expense 123
+2025-06-27,188.59,Rent,Cash,Sample expense 123
+2025-06-28,24.87,Transport,Cash,Sample expense 124
+2025-06-30,108.89,Entertainment,Credit Card,Sample expense 126
+2025-06-30,18.45,Entertainment,Credit Card,Sample expense 126
+2025-07-02,165.35,Groceries,Bank Transfer,Sample expense 128
+2025-07-02,192.35,Entertainment,Bank Transfer,Sample expense 128
+2025-07-02,142.93,Dining Out,Debit Card,Sample expense 128
+2025-07-03,125.1,Utilities,Bank Transfer,Sample expense 129
+2025-07-03,95.65,Entertainment,Credit Card,Sample expense 129
+2025-07-04,171.08,Groceries,Credit Card,Sample expense 130
+2025-07-04,176.92,Rent,Bank Transfer,Sample expense 130
+2025-07-05,70.6,Dining Out,Credit Card,Sample expense 131
+2025-07-05,40.46,Rent,Credit Card,Sample expense 131
+2025-07-05,160.58,Transport,Credit Card,Sample expense 131
+2025-07-06,113.38,Utilities,Debit Card,Sample expense 132
+2025-07-06,21.69,Entertainment,Bank Transfer,Sample expense 132
+2025-07-07,113.26,Rent,Bank Transfer,Sample expense 133
+2025-07-07,130.95,Dining Out,Bank Transfer,Sample expense 133
+2025-07-07,159.62,Groceries,Credit Card,Sample expense 133
+2025-07-08,83.86,Rent,Credit Card,Sample expense 134
+2025-07-09,97.29,Utilities,Credit Card,Sample expense 135
+2025-07-09,87.97,Entertainment,Credit Card,Sample expense 135
+2025-07-10,142.06,Transport,Credit Card,Sample expense 136
+2025-07-10,54.02,Groceries,Debit Card,Sample expense 136
+2025-07-11,28.31,Utilities,Debit Card,Sample expense 137
+2025-07-11,42.35,Entertainment,Bank Transfer,Sample expense 137
+2025-07-12,146.29,Utilities,Credit Card,Sample expense 138
+2025-07-12,196.2,Rent,Credit Card,Sample expense 138
+2025-07-13,75.37,Transport,Cash,Sample expense 139
+2025-07-14,58.49,Groceries,Credit Card,Sample expense 140
+2025-07-15,129.38,Dining Out,Cash,Sample expense 141
+2025-07-17,96.53,Dining Out,Credit Card,Sample expense 143
+2025-07-17,40.95,Groceries,Credit Card,Sample expense 143
+2025-07-18,27.25,Groceries,Bank Transfer,Sample expense 144
+2025-07-18,100.89,Utilities,Cash,Sample expense 144
+2025-07-18,34.59,Utilities,Credit Card,Sample expense 144
+2025-07-20,28.1,Dining Out,Debit Card,Sample expense 146
+2025-07-21,92.85,Dining Out,Credit Card,Sample expense 147
+2025-07-21,172.73,Dining Out,Credit Card,Sample expense 147
+2025-07-21,115.88,Groceries,Cash,Sample expense 147
+2025-07-22,126.98,Transport,Cash,Sample expense 148
+2025-07-23,51.77,Utilities,Cash,Sample expense 149
+2025-07-24,5.52,Dining Out,Bank Transfer,Sample expense 150
+2025-07-25,11.36,Transport,Credit Card,Sample expense 151
+2025-07-25,142.08,Dining Out,Cash,Sample expense 151
+2025-07-26,185.16,Entertainment,Debit Card,Sample expense 152
+2025-07-27,27.38,Rent,Debit Card,Sample expense 153
+2025-07-27,182.14,Rent,Cash,Sample expense 153
+2025-07-27,16.63,Transport,Credit Card,Sample expense 153
+2025-07-28,29.25,Entertainment,Credit Card,Sample expense 154
+2025-07-28,141.45,Transport,Bank Transfer,Sample expense 154
+2025-07-28,90.36,Utilities,Cash,Sample expense 154
+2025-07-29,148.23,Utilities,Credit Card,Sample expense 155
+2025-07-29,10.04,Rent,Cash,Sample expense 155
+2025-07-29,199.92,Entertainment,Credit Card,Sample expense 155
+2025-07-31,96.75,Entertainment,Bank Transfer,Sample expense 157
+2025-08-01,40.39,Utilities,Bank Transfer,Sample expense 158
+2025-08-01,128.78,Dining Out,Cash,Sample expense 158
+2025-08-02,72.85,Transport,Credit Card,Sample expense 159
+2025-08-02,135.68,Rent,Credit Card,Sample expense 159
+2025-08-02,85.27,Dining Out,Credit Card,Sample expense 159
+2025-08-03,163.65,Utilities,Cash,Sample expense 160
+2025-08-03,93.69,Transport,Credit Card,Sample expense 160
+2025-08-03,68.04,Dining Out,Cash,Sample expense 160
+2025-08-04,85.58,Rent,Credit Card,Sample expense 161
+2025-08-04,126.41,Dining Out,Bank Transfer,Sample expense 161
+2025-08-04,153.2,Rent,Credit Card,Sample expense 161
+2025-08-05,185.9,Dining Out,Bank Transfer,Sample expense 162
+2025-08-08,143.41,Transport,Cash,Sample expense 165
+2025-08-09,23.18,Groceries,Bank Transfer,Sample expense 166
+2025-08-09,189.68,Entertainment,Debit Card,Sample expense 166
+2025-08-09,102.18,Entertainment,Credit Card,Sample expense 166
+2025-08-10,86.02,Dining Out,Bank Transfer,Sample expense 167
+2025-08-10,52.53,Utilities,Debit Card,Sample expense 167
+2025-08-11,42.17,Utilities,Debit Card,Sample expense 168
+2025-08-11,173.49,Transport,Bank Transfer,Sample expense 168
+2025-08-11,71.28,Utilities,Credit Card,Sample expense 168
+2025-08-13,146.58,Utilities,Bank Transfer,Sample expense 170
+2025-08-13,173.73,Dining Out,Bank Transfer,Sample expense 170
+2025-08-14,69.83,Utilities,Bank Transfer,Sample expense 171
+2025-08-14,93.79,Transport,Debit Card,Sample expense 171
+2025-08-15,116.5,Rent,Bank Transfer,Sample expense 172
+2025-08-17,150.22,Entertainment,Bank Transfer,Sample expense 174
+2025-08-17,80.29,Entertainment,Debit Card,Sample expense 174
+2025-08-18,193.14,Rent,Credit Card,Sample expense 175
+2025-08-18,174.59,Dining Out,Cash,Sample expense 175
+2025-08-18,107.56,Dining Out,Cash,Sample expense 175
+2025-08-19,84.95,Entertainment,Debit Card,Sample expense 176
+2025-08-21,157.4,Transport,Credit Card,Sample expense 178
+2025-08-21,126.54,Dining Out,Cash,Sample expense 178
+2025-08-21,171.09,Entertainment,Bank Transfer,Sample expense 178
+2025-08-22,127.23,Dining Out,Cash,Sample expense 179
+2025-08-22,125.4,Rent,Credit Card,Sample expense 179
